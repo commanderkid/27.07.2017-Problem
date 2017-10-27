@@ -37,4 +37,4 @@ for i in range(per):
     resh = [int(i) for i in input().split()]
     resh = function(resh[0], resh[1])
     obsh.append(str(resh))
-print(" ".join(obsh))
+print(" ".join(obsh)) 
